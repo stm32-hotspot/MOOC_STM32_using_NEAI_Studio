@@ -1,7 +1,6 @@
 # MOOC Rapid development of anomaly detection on STM32 using NEAI Studio
 
-WARNING  : 
-    This material has been created in 2025 and is delivered as it is.
+Disclaimer: This material was created in 2025 and is delivered as is.
 
 ## MOOC purpose 
 
